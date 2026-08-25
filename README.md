@@ -9,6 +9,9 @@ Binary image classification project that identifies whether an image contains a 
 - **Approach**: Transfer learning on top of a pretrained MobileNetV2 backbone
 - **Result**: 98.03% accuracy on the held-out test set
 
+#Colab Link:https://colab.research.google.com/drive/1uxgc0bMHuD8b5dqZwvSDv3o7073eViBC#scrollTo=bVyr5uCjW0Qk
+
+
 ## Dataset
 
 - Full dataset: 25,000 labeled training images (12,500 dogs, 12,500 cats), downloaded via the Kaggle API
