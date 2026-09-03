@@ -2,6 +2,18 @@
 
 Binary image classification project that identifies whether an image contains a dog or a cat, using transfer learning with MobileNetV2. This is Project 2 in an ongoing 10-project machine learning series.
 
+> **Part of Encore's 20 — 2026**
+> This project is #2 of 20 in a personal learning challenge by **Aaradhya** — 
+> a series of 20 unique, self-built projects designed to learn something new 
+> with each one.
+>
+> **Project:** Dog vs Cat Image Classification (2/20)
+> **Learnings from this project:** Python, TensorFlow/Keras, transfer learning 
+> with MobileNetV2, image preprocessing with OpenCV, binary image classification, 
+> and using the Kaggle API to source datasets
+
+---
+
 ## Overview
 
 - **Task**: Binary image classification (cat = 0, dog = 1)
