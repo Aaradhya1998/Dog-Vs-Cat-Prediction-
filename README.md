@@ -84,7 +84,7 @@ The notebook includes an inference cell that:
 This was tested on random dog/cat images sourced outside the training set to confirm the model generalizes.
 
 ## Tech Stack
-
+- Jupyter notebook
 - Python
 - TensorFlow / Keras
 - OpenCV
